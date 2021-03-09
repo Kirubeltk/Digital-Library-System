@@ -47,7 +47,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Online Library Management System | Add Author</title>
+    <title>Digital Library Management System | Add Author</title>
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
@@ -89,7 +89,7 @@ Librarian Info
 <input class="form-control" type="text" name="libemail1" autocomplete="off"  required />
 </div>
 <div class="form-group">
-<label>Librarian Uername</label>
+<label>Librarian Username</label>
 <input class="form-control" type="text" name="username1" autocomplete="off"  required />
 </div>
 <div class="form-group">
