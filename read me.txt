@@ -1,0 +1,26 @@
+How to run this Project
+
+1. Download the project from github.
+2. Put the  folder inside root directory
+
+Database Configuration
+
+Open phpmyadmin
+Create Database library
+Import database library.sql (available inside sql file)
+
+For User
+
+Open Your browser put inside browser “http:https://localhost/Digital-Library-Management-System/library/”
+Login Details for user:adnae@gmail.com     password 123456
+
+For Admin Panel
+
+Open Your browser put inside browser “http://localhost/library/admin”
+Login Details for admin :kirubel   password 123456
+
+For Librarian Panel
+
+Open Your browser put inside browser “http://localhost/library/librarian”
+Login Details for librarian :yaredk   password 123456
+
