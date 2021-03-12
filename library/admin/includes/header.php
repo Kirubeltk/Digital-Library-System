@@ -8,13 +8,13 @@
                 </button>
                 <a class="navbar-brand">
 
-                    <img src="assets/img/logo.png" style="width:300px;height:70px"/>
+                    <img src="assets/img/logo.png" style="width:900px;height:70px"/>
                 </a>
 
             </div>
 
             <div class="right-div">
-                <a href="logout.php" class="btn btn-danger pull-right">LOG ME OUT</a>
+                <a href="../index.php" class="btn btn-danger pull-right">LOG ME OUT</a>
             </div>
         </div>
     </div>
